@@ -1,6 +1,6 @@
 {
   "name": "array-emojify",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Emojify array values",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "emojify",
     "array-emojify"
   ],
-  "repository": "rjoydip/is-installed-on-system",
+  "repository": "rjoydip/array-emojify",
   "author": {
     "name": "Joydip Roy",
     "email": "joydipand@gmail.com"
