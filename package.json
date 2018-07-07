@@ -10,7 +10,11 @@
     "emojify",
     "array-emojify"
   ],
-  "author": "Joydip Roy (rjoydip)",
+  "repository": "rjoydip/is-installed-on-system",
+  "author": {
+    "name": "Joydip Roy",
+    "email": "joydipand@gmail.com"
+  },
   "license": "MIT",
   "dependencies": {
     "node-emoji": "^1.8.1"
